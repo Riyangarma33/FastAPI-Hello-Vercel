@@ -1,0 +1,3 @@
+.conda_env/
+.vercel
+server/__pycache__/
